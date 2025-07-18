@@ -41,10 +41,10 @@ Help & Support – Front-end FAQs and support UI
 🧭 Screen Structure & Flow
 Each screen is connected and navigated with shared state:
 
-Login / Signup (mocked)
+Login / Signup
 
 
-<img width="480" height="240" alt="Screenshot 2025-07-18 000222" src="https://github.com/user-attachments/assets/3b99910d-bbeb-4fab-9ba3-13b8b1df702e" />
+<img width="680" height="440" alt="Screenshot 2025-07-18 000222" src="https://github.com/user-attachments/assets/3b99910d-bbeb-4fab-9ba3-13b8b1df702e" />
 
 
 
@@ -52,47 +52,47 @@ Login / Signup (mocked)
 Dashboard (Home)
 
 
-<img width="340" height="480" alt="screencapture-localhost-8080-2025-07-18-00_04_33" src="https://github.com/user-attachments/assets/69c58282-e2fa-40a5-91a9-fd69868667c3" />
+<img width="640" height="780" alt="screencapture-localhost-8080-2025-07-18-00_04_33" src="https://github.com/user-attachments/assets/69c58282-e2fa-40a5-91a9-fd69868667c3" />
 
 
 Service Listings
 
 
-<img width="480" height="250" alt="Screenshot 2025-07-18 000603" src="https://github.com/user-attachments/assets/b9caf3b9-ce7e-42df-ad2c-f997185ba944" />
+<img width="680" height="450" alt="Screenshot 2025-07-18 000603" src="https://github.com/user-attachments/assets/b9caf3b9-ce7e-42df-ad2c-f997185ba944" />
 
 
 Service Details
 
-<img width="350" height="580" alt="screencapture-localhost-8080-service-1-2025-07-18-00_07_03" src="https://github.com/user-attachments/assets/dd0cbae0-6bf1-4eb7-bdb5-14a2b9282cde" />
+<img width="600" height="800" alt="screencapture-localhost-8080-service-1-2025-07-18-00_07_03" src="https://github.com/user-attachments/assets/dd0cbae0-6bf1-4eb7-bdb5-14a2b9282cde" />
 
 
 Booking schedule
 
-<img width="480" height="350" alt="screencapture-localhost-8080-book-1-2025-07-18-00_07_32" src="https://github.com/user-attachments/assets/a40aaf80-1dbe-49d2-a07e-1076c235247b" />
+<img width="680" height="550" alt="screencapture-localhost-8080-book-1-2025-07-18-00_07_32" src="https://github.com/user-attachments/assets/a40aaf80-1dbe-49d2-a07e-1076c235247b" />
 
 
 Booking Service
 
-<img width="480" height="350" alt="screencapture-localhost-8080-book-1-2025-07-18-00_08_03" src="https://github.com/user-attachments/assets/bdb72346-598a-4a2c-b5bd-c19329bcbf34" />
+<img width="680" height="500" alt="screencapture-localhost-8080-book-1-2025-07-18-00_08_03" src="https://github.com/user-attachments/assets/bdb72346-598a-4a2c-b5bd-c19329bcbf34" />
 
 
 Review & Payment
 
-<img width="480" height="350" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/e5aab116-d82a-4636-87f2-927f023670fc" />
+<img width="680" height="450" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/e5aab116-d82a-4636-87f2-927f023670fc" />
 
 
 My Bookings 
 
-<img width="480" height="350" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/6084aff5-fa13-4eac-b3ab-62097dc64922" />
+<img width="680" height="500" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/6084aff5-fa13-4eac-b3ab-62097dc64922" />
 
 Notifications Center
 
-<img width="480" height="250" alt="Screenshot 2025-07-18 000959" src="https://github.com/user-attachments/assets/2fb3488f-ab52-4612-9ea5-7087de844792" />
+<img width="680" height="450" alt="Screenshot 2025-07-18 000959" src="https://github.com/user-attachments/assets/2fb3488f-ab52-4612-9ea5-7087de844792" />
 
 
 Profile Page
 
-<img width="480" height="350" alt="Screenshot 2025-07-18 001116" src="https://github.com/user-attachments/assets/203dfba9-db6e-4f85-afa1-dc4b0ef049ee" />
+<img width="680" height="520" alt="Screenshot 2025-07-18 001116" src="https://github.com/user-attachments/assets/203dfba9-db6e-4f85-afa1-dc4b0ef049ee" />
 
 
 
