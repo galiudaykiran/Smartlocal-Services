@@ -81,9 +81,6 @@ Review & Payment
 <img width="680" height="450" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/e5aab116-d82a-4636-87f2-927f023670fc" />
 
 
-My Bookings 
-
-<img width="680" height="500" alt="Screenshot 2025-07-18 000833" src="https://github.com/user-attachments/assets/6084aff5-fa13-4eac-b3ab-62097dc64922" />
 
 Notifications Center
 
